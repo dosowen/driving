@@ -11,3 +11,5 @@ if country == 'America':
 		print ("you can have a driver's license")
 	else:
 		print ("you cannot have a driver's license")
+else:
+	print ("you can only choose Taiwan or America")
